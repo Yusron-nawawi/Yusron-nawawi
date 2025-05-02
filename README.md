@@ -1,5 +1,5 @@
-## Selamat Datang Di Github Yusron-nawawi
-# Mahasiswa Semester 6 Jurusan Sistem Informasi UNU NTB
+# Selamat Datang Di Github Yusron-nawawi
+## Mahasiswa Semester 6 Jurusan Sistem Informasi UNU NTB
 
 <!--
 **Yusron-nawawi/Yusron-nawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
