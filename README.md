@@ -1,9 +1,4 @@
 # Selamat Datang Di Github Yusron-nawawi
-## Mahasiswa Semester 6 Jurusan Sistem Informasi UNU NTB
-## Ya Allah, mudahkanlah dan jangan persulit
-## "Maka sesungguhnya bersama kesulitan itu ada kemudahan.
-## Sesungguhnya bersama kesulitan itu ada kemudahan."
-
 <!--
 **Yusron-nawawi/Yusron-nawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
