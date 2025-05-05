@@ -1,4 +1,5 @@
 #SELAMAT DATANG DI GITHUB yusron-nawawi
+![screenshot](screenshot.png)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Yusron-nawawi
 - 🌱 I’m currently learning ...
